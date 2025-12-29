@@ -17,7 +17,7 @@ android {
 
     productFlavors {
         app {
-            buildConfigField "String", "URL", "\"https://dclef.icu\""
+            buildConfigField "String", "URL", "\"https://ykt.ccsdr.com/index\""
         }
 
 
